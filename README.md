@@ -36,7 +36,7 @@ Agregar a .bashrc
 
 
 ATENCION:
-Por bug en versi√n en repo de Ubuntu 12.04; agregar el ppa e instalar desde ah√:
+Por bug en versi√≥n en repo de Ubuntu 12.04; agregar el ppa e instalar desde a√:
 
 Repo:
 
